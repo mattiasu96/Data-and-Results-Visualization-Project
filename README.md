@@ -23,7 +23,7 @@ For our project, we manually checked if the labels were correct (limited to the 
 
 ### Data download
 
-[Data Download](Data Download.ipynb) allows the user to download all the top 200 charts in the selected time span for the selected nations. Once the files containing the "plain" top 200 have been downloaded, [Download features](Download features.ipynb) is used to extract and store features for each song.
+[Data Download](Data_Download.ipynb) allows the user to download all the top 200 charts in the selected time span for the selected nations. Once the files containing the "plain" top 200 have been downloaded, [Download features](Download_features.ipynb) is used to extract and store features for each song.
 
 ### The project
  [THE_IMPACT_OF_COVID-19_IN_MUSIC_INDUSTRY.ipynb](THE_IMPACT_OF_COVID-19_IN_MUSIC_INDUSTRY.ipynb) contains the jupyter notebook of our project. We exported the notebook to HTML format in  [THE_IMPACT_OF_COVID-19_IN_MUSIC_INDUSTRY.html](THE_IMPACT_OF_COVID-19_IN_MUSIC_INDUSTRY.html), so you will just need a browser to open it. 
