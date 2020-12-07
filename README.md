@@ -27,7 +27,7 @@ For our project, we manually checked if the labels were correct (limited to the 
 
 ### The project
  [THE_IMPACT_OF_COVID-19_IN_MUSIC_INDUSTRY.ipynb](THE_IMPACT_OF_COVID-19_IN_MUSIC_INDUSTRY.ipynb) contains the jupyter notebook of our project. We exported the notebook to HTML format in  [THE_IMPACT_OF_COVID-19_IN_MUSIC_INDUSTRY.html](THE_IMPACT_OF_COVID-19_IN_MUSIC_INDUSTRY.html), so you will just need a browser to open it. 
- If you're not a Python user/developer and you're interested just in our conclusion and data analysis, just go on with the HTML file.
+ If you're not a Python user/developer and you're just interested in our conclusion and data analysis, just go on with the HTML file.
  
  # Data sharing
  We don't own any rights on the data, it has been downloaded using public available APIs and dataset from Spotify and iTunes. If you would like to contribute to improve the data quality or increase its quantity, feel free to do it and contact me. 
