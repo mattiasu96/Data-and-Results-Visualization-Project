@@ -26,8 +26,8 @@ For our project, we manually checked if the labels were correct (limited to the 
 [Data Download](Data_Download.ipynb) allows the user to download all the top 200 charts in the selected time span for the selected nations. Once the files containing the "plain" top 200 have been downloaded, [Download features](Download_features.ipynb) is used to extract and store features for each song.
 
 ### The project
- [THE_IMPACT_OF_COVID-19_IN_MUSIC_INDUSTRY.ipynb](THE_IMPACT_OF_COVID-19_IN_MUSIC_INDUSTRY.ipynb) contains the jupyter notebook of our project. We exported the notebook to HTML format in  [THE_IMPACT_OF_COVID-19_IN_MUSIC_INDUSTRY.html](THE_IMPACT_OF_COVID-19_IN_MUSIC_INDUSTRY.html), so you will just need a browser to open it. 
- If you're not a Python user/developer and you're just interested in our conclusion and data analysis, just go on with the HTML file.
+ [THE_IMPACT_OF_COVID-19_IN_MUSIC_INDUSTRY.ipynb](THE_IMPACT_OF_COVID-19_IN_MUSIC_INDUSTRY.ipynb) contains the jupyter notebook of our project. We exported the notebook to PDF format in  [THE_IMPACT_OF_COVID-19_IN_MUSIC_INDUSTRY.pdf](THE_IMPACT_OF_COVID-19_IN_MUSIC_INDUSTRY.pdf), so you will just need a PDF reader to open it. 
+ If you're not a Python user/developer and you're just interested in our conclusion and data analysis, just go on with the PDF file. Notice that (obviously) interactive visualization are not rendered and there are some formatting problems due to the conversion from jupyter notebook to PDF. Beside this, the plots and the analysis still hold.
  
  # Data sharing
  We don't own any rights on the data, it has been downloaded using public available APIs and dataset from Spotify and iTunes. If you would like to contribute to improve the data quality or increase its quantity, feel free to do it and contact me. 
