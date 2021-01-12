@@ -6,6 +6,8 @@ GitHub repository for the Data and Results Visualization course project @ Polite
 
 Our project studies the impact of COVID-19 on the music industry with particular focus on music streamings. We gathered our data using the Spotify API and the Spotify top 200 weekly. We also used the iTunes API to retrieve genre information for each song.
 
+The PDF export of the project can be found here: [THE_IMPACT_OF_COVID-19_IN_MUSIC_INDUSTRY.pdf](THE_IMPACT_OF_COVID-19_IN_MUSIC_INDUSTRY.pdf)
+
 
 ## Repository Structure
 
